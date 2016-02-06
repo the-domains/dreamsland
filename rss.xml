@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[dreamsland]]></title>
+        <description><![CDATA[dreamsland]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 15:06:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bunny!!! oh have you ever seen a bunny like this.</p>]]></description>
+            <link>undefined6bb554d1-afa3-4d55-b5f8-6c4e41a9ce15/index.html</link>
+            <guid isPermaLink="false">6bb554d1-afa3-4d55-b5f8-6c4e41a9ce15</guid>
+            <pubDate>Sat, 06 Feb 2016 15:06:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
